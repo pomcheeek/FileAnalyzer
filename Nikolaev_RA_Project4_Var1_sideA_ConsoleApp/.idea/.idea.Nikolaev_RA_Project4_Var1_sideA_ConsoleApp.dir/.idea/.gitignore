@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/contentModel.xml
+/.idea.Nikolaev_RA_Project4_Var1_sideA_ConsoleApp.iml
+/modules.xml
+/projectSettingsUpdater.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+

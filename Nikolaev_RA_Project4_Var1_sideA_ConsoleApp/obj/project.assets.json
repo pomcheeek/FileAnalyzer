@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj"
+    ]
+  },
+  "packageFolders": {
+    "/Users/romanikolaev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_ConsoleApp/FileAnalyzer_ConsoleApp.csproj",
+      "projectName": "FileAnalyzer_ConsoleApp",
+      "projectPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_ConsoleApp/FileAnalyzer_ConsoleApp.csproj",
+      "packagesPath": "/Users/romanikolaev/.nuget/packages/",
+      "outputPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_ConsoleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/romanikolaev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj": {
+              "projectPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

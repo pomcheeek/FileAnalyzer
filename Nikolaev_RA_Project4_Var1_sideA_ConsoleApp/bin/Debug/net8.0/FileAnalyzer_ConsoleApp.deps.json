@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileAnalyzer_ConsoleApp/1.0.0": {
+        "dependencies": {
+          "FileAnalyzer_lib": "1.0.0"
+        },
+        "runtime": {
+          "FileAnalyzer_ConsoleApp.dll": {}
+        }
+      },
+      "FileAnalyzer_lib/1.0.0": {
+        "runtime": {
+          "FileAnalyzer_lib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileAnalyzer_ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileAnalyzer_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
