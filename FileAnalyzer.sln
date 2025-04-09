@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikolaev_RA_Project4_Var1_sideA_ConsoleApp", "Nikolaev_RA_Project4_Var1_sideA_ConsoleApp\Nikolaev_RA_Project4_Var1_sideA_ConsoleApp.csproj", "{6D094E2F-508F-4B3D-928E-BF046642E057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer_ConsoleApp", "FileAnalyzer_ConsoleApp\FileAnalyzer_ConsoleApp.csproj", "{6D094E2F-508F-4B3D-928E-BF046642E057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikolaev_RA_Project4_Var1_sideA_lib", "Nikolaev_RA_Project4_Var1_sideA_lib\Nikolaev_RA_Project4_Var1_sideA_lib.csproj", "{44CFCD0D-FF0F-4CE0-9A0D-92DA03291476}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer_library", "FileAnalyzer_library\FileAnalyzer_library.csproj", "{44CFCD0D-FF0F-4CE0-9A0D-92DA03291476}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

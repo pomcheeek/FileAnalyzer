@@ -182,7 +182,7 @@ public class Command2 : ConsoleUiBase, ISystemCommand
         }
         
         // Формирование пути для сохранения кастомной конфигурации
-        string customConfigPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../../../Nikolaev_RA_Project4_Var1_sideA_lib/Configs/customConfig.json");
+        string customConfigPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../../../FileAnalyzer_library/Configs/customConfig.json");
         
         // Опции для сериализации с форматированием отступов
         var options = new JsonSerializerOptions { WriteIndented = true };

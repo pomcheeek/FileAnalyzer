@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj",
-      "projectName": "Nikolaev_RA_Project4_Var1_sideA_lib",
-      "projectPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj",
+      "projectUniqueName": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/FileAnalyzer_library.csproj",
+      "projectName": "FileAnalyzer_library",
+      "projectPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/FileAnalyzer_library.csproj",
       "packagesPath": "/Users/romanikolaev/.nuget/packages/",
-      "outputPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/obj/",
+      "outputPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/romanikolaev/.nuget/NuGet/NuGet.Config"

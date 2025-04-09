@@ -27,14 +27,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FileAnalyzer_ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/CommandInterfaces/IWorkWithLogsCommand.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command5.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command6.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/ConsoleUI/ConsoleUIBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/LogParser/ReadLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_ConsoleApp/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/CommandInterfaces/IWorkWithLogsCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command5.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/Commands/Command6.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/ConsoleUI/ConsoleUIBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/LogParser/ReadLog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Nikolaev_RA_Project4_Var1_sideA_lib/ProgramProcess.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -95,7 +100,7 @@
       <workItem from="1740750251118" duration="14370000" />
       <workItem from="1740827469500" duration="16464000" />
       <workItem from="1740870186679" duration="13359000" />
-      <workItem from="1744194288871" duration="7884000" />
+      <workItem from="1744194288871" duration="8127000" />
     </task>
     <servers />
   </component>

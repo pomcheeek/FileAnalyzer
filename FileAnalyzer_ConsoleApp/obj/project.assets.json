@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Nikolaev_RA_Project4_Var1_sideA_lib/1.0.0": {
+      "FileAnalyzer_library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Nikolaev_RA_Project4_Var1_sideA_lib.dll": {}
+          "bin/placeholder/FileAnalyzer_library.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Nikolaev_RA_Project4_Var1_sideA_lib.dll": {}
+          "bin/placeholder/FileAnalyzer_library.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Nikolaev_RA_Project4_Var1_sideA_lib/1.0.0": {
+    "FileAnalyzer_library/1.0.0": {
       "type": "project",
-      "path": "../Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj",
-      "msbuildProject": "../Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj"
+      "path": "../FileAnalyzer_library/FileAnalyzer_library.csproj",
+      "msbuildProject": "../FileAnalyzer_library/FileAnalyzer_library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Nikolaev_RA_Project4_Var1_sideA_lib >= 1.0.0"
+      "FileAnalyzer_library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj": {
-              "projectPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/Nikolaev_RA_Project4_Var1_sideA_lib/Nikolaev_RA_Project4_Var1_sideA_lib.csproj"
+            "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/FileAnalyzer_library.csproj": {
+              "projectPath": "/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/FileAnalyzer_library.csproj"
             }
           }
         }

@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Nikolaev_RA_Project4_Var1_sideA_lib\Nikolaev_RA_Project4_Var1_sideA_lib.csproj" />
+      <ProjectReference Include="..\FileAnalyzer_library\FileAnalyzer_library.csproj" />
     </ItemGroup>
 
 </Project>
